@@ -1,9 +1,152 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="BYnBQf4yTMIS-qgF4fNu">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="1785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&amp;nbsp;Sender Phone (WhatsApp Application)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-50" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;H7&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-13" value="&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;في هذا الطبقة يضاف اليها البيانات التي يريد ان يرسلها المستخدم&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;وايضا تضاف لها في بعض البيانات والتي هيا&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;رقم تعريف الجهاز المستخدم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;معرف فريد للرسالة&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;رقم المرسل&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;رقم المستلم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;وقت الارسال&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;نوع المحتوى&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;مفاتيح الجلسة للتشفير&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;معلومات التوجية للخادم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;موشرات هل مستلمه هل مقروءة&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="390" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="497.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;process&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="497.5" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rUcuS0b6T3NQoIwaLk_W-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="120" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-20" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="567.5" as="sourcePoint" />
+            <mxPoint x="119" y="657.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119" y="657.5" />
+              <mxPoint x="119" y="657.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-21" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تعمل على تشفير البيانات باستخدام مفتاييح الجلسة احد اشهر تشفير وهو&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;signal protocol&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ظغط البيانات مما يعمل على تقليل البيانات&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تعمل على تحويل البيانات بصيغة موحودة اشهرها&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;JOSN&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="450" width="390" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Presentation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="360" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Application&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="351" y="30" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="830" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-27" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="830" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-28" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="900" as="sourcePoint" />
+            <mxPoint x="120" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="119" y="920" />
+              <mxPoint x="119" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-29" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;رقم الجلسة&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;رقم تسلسل الرسائل&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;تاكيد الارسال&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;التحكم بالتزامن&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;بدء متابعة انهاء الجلسة&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="238" y="800" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-30" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Session&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-34" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1050" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1050" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-36" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="109" y="1120" as="sourcePoint" />
+            <mxPoint x="110" y="1180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="109" y="1140" />
+              <mxPoint x="109" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-37" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;H4&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;رقم منفذ المرسل&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;رقم منفذ المستلم&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;رقم ترتيب تجزئيات البيانات&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;تاكيد استلام القطع&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;التحقق من سلامة البيانات&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="1020" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-38" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Transport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="940" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-39" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;H3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="1260" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="1260" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-41" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="118" y="1330" as="sourcePoint" />
+            <mxPoint x="119" y="1390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="118" y="1350" />
+              <mxPoint x="118" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-42" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;H3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;عنوان جهاز المرسل&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;عنوان جهاز المستقبل&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;نوع البروتوكول&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1240" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-43" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;network Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1160" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-44" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;H2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1480" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-45" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1480" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154.5" y="1580" as="sourcePoint" />
+            <mxPoint x="155.5" y="1640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="154.5" y="1600" />
+              <mxPoint x="154.5" y="1600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;H2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Source MAC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Destination&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1460" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data link layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="1380" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-49" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;T2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1480" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-53" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;تعمل على نقل البيانات بين الجهازين&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(Wi-fi) نوع الوسيط&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;نوع الاشارة كهرومغناطيسية&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;السرعة على حسب جودة الشبكة&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;من الهاتف الى نقطة الوصول الى مزود الخدمة الى خادم الواتس&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1680" width="390" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Physical Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1600" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rUcuS0b6T3NQoIwaLk_W-38" target="rUcuS0b6T3NQoIwaLk_W-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
