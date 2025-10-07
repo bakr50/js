@@ -1,391 +1,393 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.5">
   <diagram name="Page-1" id="BYnBQf4yTMIS-qgF4fNu">
-    <mxGraphModel dx="1765" dy="2289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9531" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&amp;nbsp;Sender Phone (WhatsApp Application)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="-160" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;H7&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="190" width="70" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;H7&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="250" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="190" width="70" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="250" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-13" value="&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;في هذا الطبقة يضاف اليها البيانات التي يريد ان يرسلها المستخدم&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;وايضا تضاف لها في بعض البيانات والتي هيا&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;رقم تعريف الجهاز المستخدم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;معرف فريد للرسالة&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;رقم المرسل&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;رقم المستلم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;وقت الارسال&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;نوع المحتوى&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;مفاتيح الجلسة للتشفير&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;معلومات التوجية للخادم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;موشرات هل مستلمه هل مقروءة&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="110" width="390" height="240" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-13" value="&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;في هذا الطبقة يضاف اليها البيانات التي يريد ان يرسلها المستخدم&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;وايضا تضاف لها في بعض البيانات والتي هيا&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;رقم تعريف الجهاز المستخدم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;معرف فريد للرسالة&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;رقم المرسل&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;رقم المستلم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;وقت الارسال&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;نوع المحتوى&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;مفاتيح الجلسة للتشفير&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;معلومات التوجية للخادم&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;موشرات هل مستلمه هل مقروءة&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="140" width="390" height="320" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="497.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="40" y="637.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;process&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="497.5" width="80" height="70" as="geometry" />
+          <mxGeometry x="110" y="637.5" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rUcuS0b6T3NQoIwaLk_W-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="400" as="sourcePoint" />
-            <mxPoint x="120" y="350" as="targetPoint" />
+            <mxPoint x="170" y="460" as="sourcePoint" />
+            <mxPoint x="130" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-20" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="119" y="567.5" as="sourcePoint" />
-            <mxPoint x="119" y="657.5" as="targetPoint" />
+            <mxPoint x="109" y="707.5" as="sourcePoint" />
+            <mxPoint x="109" y="797.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="119" y="657.5" />
-              <mxPoint x="119" y="657.5" />
+              <mxPoint x="109" y="797.5" />
+              <mxPoint x="109" y="797.5" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-21" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تعمل على تشفير البيانات باستخدام مفتاييح الجلسة احد اشهر تشفير وهو&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;signal protocol&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ظغط البيانات مما يعمل على تقليل البيانات&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تعمل على تحويل البيانات بصيغة موحودة اشهرها&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;JOSN&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="228" y="450" width="390" height="255" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-21" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;تعمل على تشفير البيانات باستخدام مفتاييح الجلسة احد اشهر تشفير وهو&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;signal protocol&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;ظغط البيانات مما يعمل على تقليل البيانات&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;تعمل على تحويل البيانات بصيغة موحودة اشهرها&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;JOSN&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="219" y="550" width="390" height="255" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Presentation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="351" y="360" width="126" height="70" as="geometry" />
+          <mxGeometry x="342" y="470" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Application&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="351" y="30" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-26" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="830" width="70" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;H5&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="960" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-27" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="830" width="80" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-27" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;H7&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="960" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-28" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="119" y="900" as="sourcePoint" />
-            <mxPoint x="120" y="960" as="targetPoint" />
+            <mxPoint x="119" y="1030" as="sourcePoint" />
+            <mxPoint x="120" y="1090" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="119" y="920" />
-              <mxPoint x="119" y="920" />
+              <mxPoint x="119" y="1050" />
+              <mxPoint x="119" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-29" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;رقم الجلسة&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;رقم تسلسل الرسائل&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;تاكيد الارسال&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;التحكم بالتزامن&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;بدء متابعة انهاء الجلسة&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="238" y="800" width="390" height="130" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-29" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;H5&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;رقم الجلسة&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;رقم تسلسل الرسائل&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;تاكيد الارسال&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;التحكم بالتزامن&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;بدء متابعة انهاء الجلسة&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="228" y="900" width="390" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-30" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Session&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="720" width="126" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-30" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Session&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="342" y="820" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-34" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1050" width="70" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-34" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;H4&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1190" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-35" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1050" width="80" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-36" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="109" y="1120" as="sourcePoint" />
-            <mxPoint x="110" y="1180" as="targetPoint" />
+            <mxPoint x="119.92000000000002" y="1239.92" as="sourcePoint" />
+            <mxPoint x="120" y="1360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="109" y="1140" />
-              <mxPoint x="109" y="1140" />
+              <mxPoint x="120" y="1360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-37" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;H4&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;رقم منفذ المرسل&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;رقم منفذ المستلم&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;رقم ترتيب تجزئيات البيانات&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;تاكيد استلام القطع&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;التحقق من سلامة البيانات&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="228" y="1020" width="390" height="130" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;رقم منفذ المرسل&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;رقم منفذ المستلم&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;رقم ترتيب تجزئيات البيانات&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;تاكيد استلام القطع&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;التحقق من سلامة البيانات&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="219" y="1160" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-38" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Transport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="940" width="126" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-38" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Transport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="357" y="1070" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-39" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;H3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="29" y="1260" width="90" height="80" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-39" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="29" y="1449.92" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-40" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="119" y="1260" width="100" height="80" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-40" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="119" y="1449.92" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-41" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="118" y="1330" as="sourcePoint" />
-            <mxPoint x="119" y="1390" as="targetPoint" />
+            <mxPoint x="129" y="1569.92" as="sourcePoint" />
+            <mxPoint x="130" y="1629.92" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="118" y="1350" />
-              <mxPoint x="118" y="1350" />
+              <mxPoint x="129" y="1589.92" />
+              <mxPoint x="129" y="1589.92" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-42" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;H3&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;عنوان جهاز المرسل&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;عنوان جهاز المستقبل&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;نوع البروتوكول&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1240" width="360" height="130" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-42" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;عنوان جهاز المرسل&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;عنوان جهاز المستقبل&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;نوع البروتوكول&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1449.92" width="360" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-43" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;network Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="1160" width="126" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-43" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;network Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="351" y="1320" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-44" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;H2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1480" width="90" height="100" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-44" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;H2&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="0.5" y="1690" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-45" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="1480" width="100" height="100" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-45" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="90.5" y="1690" width="100" height="130" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-46" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="154.5" y="1580" as="sourcePoint" />
-            <mxPoint x="155.5" y="1640" as="targetPoint" />
+            <mxPoint x="145" y="1820" as="sourcePoint" />
+            <mxPoint x="146" y="1880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="154.5" y="1600" />
-              <mxPoint x="154.5" y="1600" />
+              <mxPoint x="145" y="1840" />
+              <mxPoint x="145" y="1840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;H2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Source MAC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Destination&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="307.5" y="1460" width="275" height="130" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-47" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;H2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Source MAC&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Destination&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="298" y="1695" width="275" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data link layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="367" y="1380" width="126" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-48" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data link layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="350.5" y="1610" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-49" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;T2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="1480" width="90" height="100" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-49" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;T2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="190.5" y="1690" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-53" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;تعمل على نقل البيانات بين الجهازين&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;(Wi-fi) نوع الوسيط&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;نوع الاشارة كهرومغناطيسية&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;السرعة على حسب جودة الشبكة&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;من الهاتف الى نقطة الوصول الى مزود الخدمة الى خادم الواتس&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="188" y="1688.5" width="390" height="130" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-53" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;تعمل على نقل البيانات بين الجهازين&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;(Wi-fi) نوع الوسيط&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;نوع الاشارة كهرومغناطيسية&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;السرعة على حسب جودة الشبكة&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;من الهاتف الى نقطة الوصول الى مزود الخدمة الى خادم الواتس&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1945" width="390" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="rUcuS0b6T3NQoIwaLk_W-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Physical Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1600" width="126" height="70" as="geometry" />
+        <mxCell id="rUcuS0b6T3NQoIwaLk_W-54" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Physical Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="224.38" y="1850" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rUcuS0b6T3NQoIwaLk_W-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="rUcuS0b6T3NQoIwaLk_W-38" target="rUcuS0b6T3NQoIwaLk_W-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-3" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;استقبال البيانات من طبقة العرض&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;تفسير البيانات وتوحيد نوعها&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;عرض البيانات داخل واجهة تطبيق واتساب للمستخدم&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;إرسال إشعار استلام الرسالة إلى الخادم&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;عند فتح الرسالة، إرسال تأكيد القراءة&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;تحديث حالة الجلسة والمزامنة مع الخادم&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1075.5" y="140" width="355" height="170" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-3" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;استقبال البيانات من طبقة العرض&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;تفسير البيانات وتوحيد نوعها&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;عرض البيانات داخل واجهة تطبيق واتساب للمستخدم&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;إرسال إشعار استلام الرسالة إلى الخادم&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;عند فتح الرسالة، إرسال تأكيد القراءة&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;تحديث حالة الجلسة والمزامنة مع الخادم&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="200" width="400.5" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XZ4du1RtXwlvnxnSr3-_-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="507.5" width="80" height="82.5" as="geometry" />
+          <mxGeometry x="885" y="623.75" width="80" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;process&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="507.5" width="80" height="82.5" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;data&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;process&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="965" y="623.75" width="80" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-8" value="&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;استقبال البيانات من طبقة الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;فك التشفير باستخدام مفاتيح الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;استخدام بروتوكول التشفير&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;فك ضغط البيانات لتقليل الحجم واستعادة الأصل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;تحويل البيانات إلى صيغة موحدة مثل JSON&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1085.5" y="480" width="390" height="160" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-8" value="&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;استقبال البيانات من طبقة الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;فك التشفير باستخدام مفاتيح الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;استخدام بروتوكول التشفير&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;فك ضغط البيانات لتقليل الحجم واستعادة الأصل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;576&quot; data-start=&quot;525&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;تحويل البيانات إلى صيغة موحدة مثل JSON&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1058" y="540" width="390" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Presentation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1202" y="370" width="126" height="70" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Presentation&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="460" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XZ4du1RtXwlvnxnSr3-_-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Application&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1202" y="30" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="840" width="70" height="80" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;H5&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="945" y="930" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-12" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="840" width="80" height="80" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-12" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;H7&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1015" y="930" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;استقبال البيانات من طبقة النقل&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;التعرّف على رقم الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;التحقق من تسلسل الرسائل داخل الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;تأكيد الاستلام وإعادة المزامنة عند الحاجة&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1069&quot; data-start=&quot;1025&quot;&gt;إدارة حالة الجلسة (بدء – متابعة – إنهاء)&lt;/span&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1095" y="810" width="360" height="130" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;استقبال البيانات من طبقة النقل&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;التعرّف على رقم الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;التحقق من تسلسل الرسائل داخل الجلسة&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;تأكيد الاستلام وإعادة المزامنة عند الحاجة&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1069&quot; data-start=&quot;1025&quot;&gt;إدارة حالة الجلسة (بدء – متابعة – إنهاء)&lt;/span&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1103" y="910" width="360" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-15" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;Session&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1217.5" y="720" width="126" height="70" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-15" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Session&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1202" y="820" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XZ4du1RtXwlvnxnSr3-_-16" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1060" width="70" height="80" as="geometry" />
+          <mxGeometry x="930" y="1180" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XZ4du1RtXwlvnxnSr3-_-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1060" width="80" height="80" as="geometry" />
+          <mxGeometry x="1000" y="1180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-19" value="&lt;b&gt;استقبال الاجزاء من طبقة الشبكة&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;(Source Port)&amp;nbsp;قراءة رقم منفذ المرسل&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;(Sequence Number)&amp;nbsp;التحقق من ترتيب الأجزاء&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;(Acknowledgment – ACK)&amp;nbsp;تأكيد استلام الاجزاء&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Destination Port)&amp;nbsp;قراءة رقم منفذ المستقبل&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D8%AC%D8%B2%D8%A7%D8%A1%20%D9%85%D9%86%20%D8%B7%D8%A8%D9%82%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9%26lt%3Bdiv%26gt%3B(Source%20Port)%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%23E8F5FF%3BgradientColor%3Dnone%3BgradientDirection%3Dsouth%3Bglass%3D0%3Bshadow%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%221030%22%20width%3D%22390%22%20height%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E(Destination Port)&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D8%AC%D8%B2%D8%A7%D8%A1%20%D9%85%D9%86%20%D8%B7%D8%A8%D9%82%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9%26lt%3Bdiv%26gt%3B(Source%20Port)%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%23E8F5FF%3BgradientColor%3Dnone%3BgradientDirection%3Dsouth%3Bglass%3D0%3Bshadow%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%221030%22%20width%3D%22390%22%20height%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1085.5" y="1040" width="379" height="120" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;استقبال الاجزاء من طبقة الشبكة&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;(Source Port)&amp;nbsp;قراءة رقم منفذ المرسل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;(Sequence Number)&amp;nbsp;التحقق من ترتيب الأجزاء&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;(Acknowledgment – ACK)&amp;nbsp;تأكيد استلام الاجزاء&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;(Destination Port)&amp;nbsp;قراءة رقم منفذ المستقبل&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D8%AC%D8%B2%D8%A7%D8%A1%20%D9%85%D9%86%20%D8%B7%D8%A8%D9%82%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9%26lt%3Bdiv%26gt%3B(Source%20Port)%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%23E8F5FF%3BgradientColor%3Dnone%3BgradientDirection%3Dsouth%3Bglass%3D0%3Bshadow%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%221030%22%20width%3D%22390%22%20height%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E(Destination Port)&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; text-align: start; text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84%20%D8%A7%D9%84%D8%A7%D8%AC%D8%B2%D8%A7%D8%A1%20%D9%85%D9%86%20%D8%B7%D8%A8%D9%82%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A9%26lt%3Bdiv%26gt%3B(Source%20Port)%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23d5e8d4%3BstrokeColor%3D%23E8F5FF%3BgradientColor%3Dnone%3BgradientDirection%3Dsouth%3Bglass%3D0%3Bshadow%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221070%22%20y%3D%221030%22%20width%3D%22390%22%20height%3D%22130%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1100.5" y="1150" width="379" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-20" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Transport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1202" y="950" width="126" height="70" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-20" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Transport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1227" y="1070" width="126" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-21" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;H3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1260" width="90" height="80" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-21" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="1430" width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1260" width="100" height="80" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-22" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;H7&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;H5&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;H4&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="1430" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-24" value="&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;استقبال الحزمة من طبقة ربط البيانات&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;(Source IP)&amp;nbsp;قراءة عنوان جهاز المرسل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;nbsp;(Destination IP)&amp;nbsp;قراءة عنوان جهاز المستقبل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(TCP أو UDP)&amp;nbsp;التحقق من نوع البروتوكول المستخدم &lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;التأكد أن عنوان الوجهة يخص هذا الجهاز المستقبل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1245" width="390" height="130" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-24" value="&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;استقبال الحزمة من طبقة ربط البيانات&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;(Source IP)&amp;nbsp;قراءة عنوان جهاز المرسل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&amp;nbsp;(Destination IP)&amp;nbsp;قراءة عنوان جهاز المستقبل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;(TCP أو UDP)&amp;nbsp;التحقق من نوع البروتوكول المستخدم &lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;التأكد أن عنوان الوجهة يخص هذا الجهاز المستقبل&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong data-end=&quot;311&quot; data-start=&quot;272&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1095" y="1419.92" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-25" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;network Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1212" y="1170" width="126" height="70" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-25" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;network Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1227" y="1320" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XZ4du1RtXwlvnxnSr3-_-26" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;H2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1480" width="90" height="100" as="geometry" />
+          <mxGeometry x="775.5" y="1680" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-27" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1480" width="100" height="100" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H7&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H5&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H4&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;H3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="865.5" y="1680" width="100" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-29" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;استلام البتات ومقارنة&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;header&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;اذا كان صح يتم قبولة واذا كان خطا يتم تجاهلة&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;فحص&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;T2&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;للتاكد من سلامة البيانت&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="1470" width="390" height="130" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-29" value="&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;استلام البتات ومقارنة&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;header&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;اذا كان صح يتم قبولة واذا كان خطا يتم تجاهلة&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;فحص&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;T2&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;للتاكد من سلامة البيانت&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1085.5" y="1680" width="390" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data link layer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="1390" width="126" height="70" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Data link layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1207.5" y="1590" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XZ4du1RtXwlvnxnSr3-_-31" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;T2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="1480" width="90" height="100" as="geometry" />
+          <mxGeometry x="965.5" y="1680" width="90" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;استلام الاشارة الكهرومغناطيسة ثم يتم تحويلها الى 0 و 1 ليتم تمريره الى الطبقة الاعلى&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1710" width="390" height="130" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;استلام الاشارة الكهرومغناطيسة ثم يتم تحويلها الى 0 و 1 ليتم تمريره الى الطبقة الاعلى&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="980.5" y="1945" width="390" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XZ4du1RtXwlvnxnSr3-_-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Physical Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1178" y="1623.13" width="126" height="70" as="geometry" />
+        <mxCell id="XZ4du1RtXwlvnxnSr3-_-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Physical Layer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1106.38" y="1850" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XZ4du1RtXwlvnxnSr3-_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XZ4du1RtXwlvnxnSr3-_-20" target="XZ4du1RtXwlvnxnSr3-_-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="748.38" y="1623.13" width="60" height="258.75" as="geometry" />
+          <mxGeometry x="698.38" y="1850" width="60" height="258.75" as="geometry" />
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="1735" as="sourcePoint" />
-            <mxPoint x="870" y="1735" as="targetPoint" />
+            <mxPoint x="620" y="1960.87" as="sourcePoint" />
+            <mxPoint x="830" y="1960.87" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700" y="1735" />
-              <mxPoint x="700" y="1775" />
-              <mxPoint x="740" y="1775" />
-              <mxPoint x="740" y="1735" />
-              <mxPoint x="790" y="1735" />
-              <mxPoint x="790" y="1775" />
-              <mxPoint x="840" y="1775" />
-              <mxPoint x="840" y="1735" />
+              <mxPoint x="660" y="1960.87" />
+              <mxPoint x="660" y="2000.87" />
+              <mxPoint x="700" y="2000.87" />
+              <mxPoint x="700" y="1960.87" />
+              <mxPoint x="750" y="1960.87" />
+              <mxPoint x="750" y="2000.87" />
+              <mxPoint x="800" y="2000.87" />
+              <mxPoint x="800" y="1960.87" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LIH5HRmpQbOyuKiNn_1y-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;نقل البيانات بين الطرفين ستكون على شكل اشارة كهرومغناطيسية لانها تنتقل عبر&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Wi-FI&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=default;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="683.38" y="1790" width="190" height="80" as="geometry" />
+        <mxCell id="LIH5HRmpQbOyuKiNn_1y-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;نقل البيانات بين الطرفين ستكون على شكل اشارة كهرومغناطيسية لانها تنتقل عبر&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Wi-FI&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=default;textShadow=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2030" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LIH5HRmpQbOyuKiNn_1y-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LIH5HRmpQbOyuKiNn_1y-1" target="XZ4du1RtXwlvnxnSr3-_-32">
+        <mxCell id="LIH5HRmpQbOyuKiNn_1y-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;" edge="1" parent="1" source="LIH5HRmpQbOyuKiNn_1y-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890" y="1890" as="sourcePoint" />
-            <mxPoint x="940" y="1840" as="targetPoint" />
+            <mxPoint x="840" y="2116.87" as="sourcePoint" />
+            <mxPoint x="980" y="1969.37" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="918" y="1940" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LIH5HRmpQbOyuKiNn_1y-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIH5HRmpQbOyuKiNn_1y-1" target="rUcuS0b6T3NQoIwaLk_W-53">
+        <mxCell id="LIH5HRmpQbOyuKiNn_1y-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LIH5HRmpQbOyuKiNn_1y-1" target="rUcuS0b6T3NQoIwaLk_W-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="1730" as="sourcePoint" />
-            <mxPoint x="610" y="1710" as="targetPoint" />
+            <mxPoint x="580" y="1900" as="sourcePoint" />
+            <mxPoint x="550" y="1880" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="620" y="1740" />
+              <mxPoint x="560" y="1970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1101.37" y="1470" as="sourcePoint" />
-            <mxPoint x="1100" y="1392.6" as="targetPoint" />
+            <mxPoint x="1111.87" y="1680" as="sourcePoint" />
+            <mxPoint x="1110.5" y="1602.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.898;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XZ4du1RtXwlvnxnSr3-_-31" target="XZ4du1RtXwlvnxnSr3-_-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="995" y="1555" as="sourcePoint" />
-            <mxPoint x="1045" y="1505" as="targetPoint" />
+            <mxPoint x="990.5" y="1785" as="sourcePoint" />
+            <mxPoint x="1040.5" y="1735" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.916;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.098;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XZ4du1RtXwlvnxnSr3-_-31" target="XZ4du1RtXwlvnxnSr3-_-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1020" y="1602" as="sourcePoint" />
-            <mxPoint x="1092" y="1510" as="targetPoint" />
+            <mxPoint x="1015.5" y="1832" as="sourcePoint" />
+            <mxPoint x="1087.5" y="1740" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LIH5HRmpQbOyuKiNn_1y-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.898;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LIH5HRmpQbOyuKiNn_1y-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.954;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XZ4du1RtXwlvnxnSr3-_-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="788.5" y="1576" as="sourcePoint" />
-            <mxPoint x="860.5" y="1484" as="targetPoint" />
+            <mxPoint x="784" y="1806" as="sourcePoint" />
+            <mxPoint x="856" y="1714" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LIH5HRmpQbOyuKiNn_1y-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.916;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.098;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LIH5HRmpQbOyuKiNn_1y-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.916;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="XZ4du1RtXwlvnxnSr3-_-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="861.5" y="1580" as="sourcePoint" />
-            <mxPoint x="788.5" y="1488" as="targetPoint" />
+            <mxPoint x="857" y="1810" as="sourcePoint" />
+            <mxPoint x="784" y="1718" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1101" y="1710" as="sourcePoint" />
-            <mxPoint x="1100" y="1633" as="targetPoint" />
+            <mxPoint x="1041" y="1945" as="sourcePoint" />
+            <mxPoint x="1040" y="1868" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.898;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XZ4du1RtXwlvnxnSr3-_-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="878.5" y="1354" as="sourcePoint" />
-            <mxPoint x="950.5" y="1262" as="targetPoint" />
+            <mxPoint x="898.5" y="1524" as="sourcePoint" />
+            <mxPoint x="970.5" y="1432" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.853;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.098;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XZ4du1RtXwlvnxnSr3-_-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="951.5" y="1358" as="sourcePoint" />
-            <mxPoint x="878.5" y="1266" as="targetPoint" />
+            <mxPoint x="971.5" y="1528" as="sourcePoint" />
+            <mxPoint x="898.5" y="1436" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.898;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="890.5" y="1137" as="sourcePoint" />
-            <mxPoint x="962" y="1060" as="targetPoint" />
+            <mxPoint x="930.5" y="1257" as="sourcePoint" />
+            <mxPoint x="1002" y="1180" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.853;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.098;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="958.5" y="1137" as="sourcePoint" />
-            <mxPoint x="890" y="1064" as="targetPoint" />
+            <mxPoint x="998.5" y="1257" as="sourcePoint" />
+            <mxPoint x="930" y="1184" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1111.37" y="1247.4" as="sourcePoint" />
-            <mxPoint x="1110" y="1170" as="targetPoint" />
+            <mxPoint x="1161.37" y="1407.4" as="sourcePoint" />
+            <mxPoint x="1160" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1121.37" y="1040" as="sourcePoint" />
-            <mxPoint x="1120" y="962.6" as="targetPoint" />
+            <mxPoint x="1161.37" y="1143.7" as="sourcePoint" />
+            <mxPoint x="1160" y="1066.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.898;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="898.5" y="920" as="sourcePoint" />
-            <mxPoint x="970" y="843" as="targetPoint" />
+            <mxPoint x="943.5" y="1010" as="sourcePoint" />
+            <mxPoint x="1015" y="933" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.853;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.098;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="970" y="920" as="sourcePoint" />
-            <mxPoint x="901.5" y="847" as="targetPoint" />
+            <mxPoint x="1015" y="1010" as="sourcePoint" />
+            <mxPoint x="946.5" y="937" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.098;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.898;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900" y="585" as="sourcePoint" />
-            <mxPoint x="971.5" y="508" as="targetPoint" />
+            <mxPoint x="885" y="701.25" as="sourcePoint" />
+            <mxPoint x="956.5" y="624.25" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.853;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.098;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="971.5" y="585" as="sourcePoint" />
-            <mxPoint x="903" y="512" as="targetPoint" />
+            <mxPoint x="956.5" y="701.25" as="sourcePoint" />
+            <mxPoint x="888" y="628.25" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1131.37" y="810.0000000000001" as="sourcePoint" />
-            <mxPoint x="1130" y="732.6" as="targetPoint" />
+            <mxPoint x="1141.37" y="910.0000000000001" as="sourcePoint" />
+            <mxPoint x="1140" y="832.6" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="560" as="sourcePoint" />
-            <mxPoint x="1050" y="560" as="targetPoint" />
+            <mxPoint x="965" y="676.25" as="sourcePoint" />
+            <mxPoint x="1035" y="676.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.183;exitY=-0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1131.37" y="490.0000000000001" as="sourcePoint" />
-            <mxPoint x="1130" y="412.6" as="targetPoint" />
+            <mxPoint x="1107.75" y="547.4000000000001" as="sourcePoint" />
+            <mxPoint x="1106.38" y="469.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LIH5HRmpQbOyuKiNn_1y-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rUcuS0b6T3NQoIwaLk_W-23" target="XZ4du1RtXwlvnxnSr3-_-10">
@@ -399,6 +401,9 @@
               <mxPoint x="1260" y="-90" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LIH5HRmpQbOyuKiNn_1y-39" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;اابوبكر عبد الخالق احمد&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;IT 3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;G :: B&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;البحث 2&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#E8F5FF;gradientColor=none;gradientDirection=south;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-150" width="390" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
